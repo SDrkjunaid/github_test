@@ -31,3 +31,8 @@ for (const [key, value] of myMap.entries()) {
 myMap.forEach((value, key) => {
   console.log(`${key}: ${value}`);
 });
+#include<iostream>
+using namespace std;
+int MediaDeviceInfo(){
+    cout<<"Hello world"<<endl;
+}
